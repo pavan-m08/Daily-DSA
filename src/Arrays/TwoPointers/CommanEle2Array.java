@@ -21,8 +21,7 @@ public class CommanEle2Array {
             for(int j=0;j<m;j++){
                 if(arr1[i]==arr2[j]){
                     System.out.print(arr1[i]+" ");
-                    i++;
-                    j++;
+
                 }
             }
         }
