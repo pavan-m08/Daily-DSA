@@ -1,3 +1,17 @@
+/*Question 1: Sum of Every Window
+Given an array, print the sum of every consecutive subarray of size k.
+
+Input:
+int[] arr = {1, 2, 3, 4, 5};
+int k = 2;
+
+Expected output:
+3
+5
+7
+9
+
+ */
 package Arrays.SlidingWindowFixed;
 import java.util.Scanner;
 
